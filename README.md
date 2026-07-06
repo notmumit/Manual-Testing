@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my **Manual Testing Assignment** based on the **DMoney Portal** application. The assignment covers the complete Software Testing Life Cycle (STLC) activities for the Customer Transaction module, including test planning, test case design, execution, bug reporting, exploratory testing, and documentation.
+This repository contains my **Manual Testing Project** based on the **DMoney Portal** application. The assignment covers the complete Software Testing Life Cycle (STLC) activities for the Customer Transaction module, including test planning, test case design, execution, bug reporting, exploratory testing, and documentation.
 
 ---
 
@@ -11,8 +11,6 @@ This repository contains my **Manual Testing Assignment** based on the **DMoney 
 | Item              | Details               |
 | ----------------- | --------------------- |
 | **Project**       | DMoney Portal         |
-| **Assignment**    | Manual Testing        |
-| **Batch**         | 18                    |
 | **Module Tested** | Customer Transactions |
 | **Testing Type**  | Manual Testing        |
 
@@ -31,7 +29,6 @@ This repository includes the following deliverables:
 * ✅ Exploratory Testing Report
 * ✅ Bug Report
 * ✅ System Checklist
-* ✅ Theoretical Questions & Answers
 
 --
 
@@ -67,7 +64,6 @@ This repository includes the following deliverables:
 | Exploratory Testing    | ✔ Completed |
 | Bug Report             | ✔ Completed |
 | Checklist              | ✔ Completed |
-| Theory Questions       | ✔ Completed |
 
 ---
 
@@ -133,7 +129,6 @@ Potential defects discovered during exploratory testing are documented in the Bu
 
 * Microsoft Excel / Google Sheets
 * GitHub
-* Google Chrome
 * Stripe Test Environment
 
 ---
@@ -152,7 +147,6 @@ DMoney-Manual-Testing/
 ├── Exploratory Testing
 ├── Bug Report
 ├── Checklist
-├── Theory Questions
 └── README.md
 ```
 
@@ -160,7 +154,7 @@ DMoney-Manual-Testing/
 
 # Learning Outcomes
 
-Through this assignment, I practiced:
+Through this project, I practiced:
 
 * Requirement Analysis
 * Acceptance Criteria Writing
@@ -174,17 +168,6 @@ Through this assignment, I practiced:
 
 ---
 
-# Author
-
-**Batch:** 18
-
-**Course:** Software Quality Assurance (SQA)
-
-**Project:** Manual Testing Assignment – DMoney Portal
-
----
-
-# License
 
 This repository is created for educational purposes as part of an SQA Manual Testing assignment.
 # Manual-Testing
