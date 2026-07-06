@@ -165,9 +165,3 @@ Through this project, I practiced:
 * Exploratory Testing
 * Software Testing Documentation
 * GitHub Repository Management
-
----
-
-
-This repository is created for educational purposes as part of an SQA Manual Testing assignment.
-# Manual-Testing
